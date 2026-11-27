@@ -1,11 +1,12 @@
-# Research images used on the homepage
+# Homepage image sources
 
-All figures are taken from the site owner's supplied research files; no Talos imagery or logo is reused.
+The homepage uses the four concept illustrations supplied by the site owner on 27 November 2026, copied without image edits.
 
-- `research-machine.jpg`: image1.jpg, extracted unchanged from `20260519_ICEM2026_Final submission.docx`, caption: benchmark 1 MW-class PM machine with a 96-slot/16-pole, 12-phase topology and a five-stage Halbach array.
-- `research-winding.jpg`: image9.jpg from the same manuscript, extracted unchanged. Caption: manual prototyping process of the flat-wound stator winding (forming, mat assembly, rounding, slot insertion).
-- `research-materials.png`: supplied `BH_loops_1.7T(3).png`, used unchanged; laser versus EDM material measurements at 50 Hz.
-- `electrical-machine.svg`: existing conceptual motif, not a specific research result.
-- `blue-charcoal-background.jpg`: existing site background.
+| Location | File | Supplied image |
+| --- | --- | --- |
+| Hero beside the homepage title | `hero-aircraft-motor.png` | `image(20261127-151252).png` |
+| Machine architecture | `machine-architecture.png` | `image(20261127-153212).png` |
+| Winding architecture | `winding-architecture.png` | `image(20261127-160233).png` |
+| Materials & manufacturing | `materials-manufacturing.png` | `image(20261127-160815).png` |
 
-The additive manufacturing section is presented as a research direction. The material figure depicts electrical-steel characterisation; it is not presented as an additively manufactured sample.
+These are concept illustrations. The curves in the materials image are schematic and are not presented as measured research data. The previous research figures remain in repository history.
