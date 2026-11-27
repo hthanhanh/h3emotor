@@ -24,3 +24,40 @@
 @media(max-width:1400px) and (min-width:1151px){.site-nav{gap:18px;padding-left:3%;padding-right:3%}.nav-group{gap:20px}.nav-group a{font-size:14px;letter-spacing:.07em}}
 @media(max-width:1150px){.site-nav{display:flex;min-height:104px}.brand-name{font-size:25px}.technology-hero .hero-container{grid-template-columns:1fr;gap:40px;padding-top:64px;padding-bottom:64px}.technology-hero h1{font-size:clamp(58px,7vw,82px);max-width:900px}.hero-art{max-width:800px;width:100%;margin:0 auto}.technology-hero .hero-intro{max-width:780px}}
 @media(max-width:540px){.brand-name{font-size:23px}.site-nav{min-height:96px}.technology-hero .hero-container{padding-top:48px;padding-bottom:46px;gap:35px}.technology-hero h1{font-size:clamp(46px,12vw,64px)}.technology-section .section-intro>.overline{font-size:21px;letter-spacing:.06em;margin-bottom:22px!important}}
+
+/* Shared supplied background and seamless hero */
+:root{--ink:#f0f5f7;--muted:#d1dce2;--accent:#8fe2dc;--line:#ffffff2b;--mist:#0c1b2db3;--background:url('site-background.png')}
+body,body.technology-home{color:var(--ink);background:#202020 url('site-background.png') center top/cover fixed no-repeat}
+.site-header{background:rgba(6,16,25,.88);background-image:none;border-bottom-color:#ffffff25}
+.brand-name{text-align:center}
+.technology-hero{background:transparent;isolation:auto}
+.technology-hero:before,.hero-grid{display:none}
+.technology-hero .hero-container{grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:32px;padding-top:82px;padding-bottom:86px;max-width:1600px}
+.technology-hero h1{font-size:clamp(42px,4.4vw,79px);line-height:1.08;letter-spacing:-.05em;max-width:none;margin-bottom:30px;text-wrap:initial}
+.headline-first,.technology-hero h1 em{display:block;white-space:nowrap}
+.hero-art{background:transparent;border:0;border-radius:0;overflow:visible}
+.hero-art img{filter:drop-shadow(0 20px 26px #00000038)}
+.technology-home p,.technology-home .hero-intro{color:#e1eaf0}
+.technology-section{background:transparent}
+.winding-section{background:rgba(4,14,24,.17)}
+.collaboration-panel{background:rgba(4,14,24,.28)}
+.section-banner{background:transparent}
+.section-banner .wrap{background:transparent}
+.section-content{background:rgba(6,17,28,.60);color:var(--ink);border:1px solid #ffffff16;border-top:0}
+.section-content p,.section-content li,.section-content dd{color:#dce6ed}
+.section-content h1,.section-content h2,.section-content h3,.section-content dt{color:#f2f6f8}
+.section-content .research-line{color:#e9f3f7!important}
+.section-content .eyebrow,.section-content .year,.section-content .event time{color:var(--accent)}
+.section-content a{color:#a4eee7}
+.section-content .portrait,.section-content .photo-slot{background:#0c2033a8;border-color:#ffffff35;color:#d0e4ed}
+.section-content .portrait small,.section-content .profile-links,.section-content .chips span{color:#cfdee8}
+.section-content .chips span{background:#0b1b2a85;border-color:#ffffff35}
+.section-content .news-empty,.section-content .note,.section-content .callout{background:#0b1e31b3;color:#dce7ee;border-left-color:var(--accent)}
+.section-content .badge{background:#12384599;color:#a5ece8;border-color:#6bb8ba66}
+.section-content .event{border-left-color:#72c9cf}
+.site-footer{background:rgba(5,14,22,.82)}
+.site-footer p,.footer-brand>span{color:#c0d0db}
+.research-figure figcaption{color:#c5d6e0}
+@media(max-width:1150px){.technology-hero .hero-container{grid-template-columns:1fr;gap:32px;padding-top:60px;padding-bottom:64px}.technology-hero h1{font-size:clamp(34px,6.6vw,74px)}.hero-art{max-width:650px;width:100%;margin:0 auto}}
+@media(max-width:540px){body,body.technology-home{background-attachment:fixed;background-position:32% top}.technology-hero .hero-container{padding-top:45px;padding-bottom:44px;gap:24px}.technology-hero h1{font-size:clamp(24px,7.6vw,40px);letter-spacing:-.045em;margin-bottom:25px}.section-content{background:rgba(6,17,28,.67)}}
+@media print{body,body.technology-home{background:#fff;color:#152d40}.section-content{background:white;color:#152d40}.section-content p,.section-content li,.section-content h1,.section-content h2,.section-content h3{color:#152d40}}
