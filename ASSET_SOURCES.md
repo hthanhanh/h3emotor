@@ -27,3 +27,8 @@ The visible concept-label sentences were removed from homepage captions at the s
 ## Approved vertical nameplate emblem (27 November 2026)
 
 `h3e-vertical-nameplate.webp` is the user-approved portrait stator emblem with a rotated navy-and-silver H3E/MOTOR nameplate, fine metallic edging and cyan divider. Preserves the polished copper windings and brushed-steel core. Prepared from the built-in image-generation output without visual changes. The separate main-header wordmark is removed as requested; the image retains its home-link accessible label.
+
+
+## Aircraft and EV homepage image (27 November 2026)
+
+`hero-aircraft-ev-motor.webp` edits the existing transparent motor illustration with the built-in image-generation tool at the user's request: a larger aircraft at upper left and an electric passenger car of similar visual prominence at lower left. Blue ribbons link the application vignettes to the motor. Transparent outside the illustrated elements. The image is illustrative.
