@@ -22,3 +22,8 @@ The visible concept-label sentences were removed from homepage captions at the s
 ## Portrait stator emblem (27 November 2026)
 
 `h3e-stator-emblem.webp` uses the portrait H3E copper stator emblem generated from the user-provided badge and approved by the user. Its polished copper windings, brushed-steel core, navy backing and fine metallic edge are preserved. Transparent outside the badge. Paired with a readable HTML wordmark in all seven page headers and footers.
+
+
+## Approved vertical nameplate emblem (27 November 2026)
+
+`h3e-vertical-nameplate.webp` is the user-approved portrait stator emblem with a rotated navy-and-silver H3E/MOTOR nameplate, fine metallic edging and cyan divider. Preserves the polished copper windings and brushed-steel core. Prepared from the built-in image-generation output without visual changes. The separate main-header wordmark is removed as requested; the image retains its home-link accessible label.
