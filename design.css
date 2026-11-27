@@ -61,3 +61,17 @@ body,body.technology-home{color:var(--ink);background:#202020 url('site-backgrou
 @media(max-width:1150px){.technology-hero .hero-container{grid-template-columns:1fr;gap:32px;padding-top:60px;padding-bottom:64px}.technology-hero h1{font-size:clamp(34px,6.6vw,74px)}.hero-art{max-width:650px;width:100%;margin:0 auto}}
 @media(max-width:540px){body,body.technology-home{background-attachment:fixed;background-position:32% top}.technology-hero .hero-container{padding-top:45px;padding-bottom:44px;gap:24px}.technology-hero h1{font-size:clamp(24px,7.6vw,40px);letter-spacing:-.045em;margin-bottom:25px}.section-content{background:rgba(6,17,28,.67)}}
 @media print{body,body.technology-home{background:#fff;color:#152d40}.section-content{background:white;color:#152d40}.section-content p,.section-content li,.section-content h1,.section-content h2,.section-content h3{color:#152d40}}
+
+/* Portrait copper-stator emblem and readable wordmark. */
+.site-nav{grid-template-columns:minmax(0,1fr) 188px minmax(0,1fr);gap:24px}
+.brand{display:flex;align-items:center;justify-content:center;gap:12px;flex-shrink:0}
+.stator-emblem{display:block;width:66px;height:88px;object-fit:contain;flex-shrink:0}
+.brand .brand-name{font-size:26px;line-height:1.08;text-align:center}
+.brand .brand-name>span{font-size:inherit;letter-spacing:inherit}
+.brand:focus-visible,.footer-brand:focus-visible{outline:2px solid var(--teal);outline-offset:5px;border-radius:5px}
+.footer-brand>.footer-brand-lockup{display:flex;align-items:center;gap:12px;margin:0 0 12px;font:inherit;color:inherit}
+.footer-brand-lockup .stator-emblem{width:57px;height:76px}
+.footer-brand-lockup .brand-name{font-size:24px;line-height:1.08;text-align:center}
+@media(min-width:1151px) and (max-width:1400px){.site-nav{gap:18px}.nav-group{gap:18px}.nav-group a{font-size:13px;letter-spacing:.055em}}
+@media(max-width:1150px){.site-nav{display:flex;min-height:106px;padding-top:10px;padding-bottom:10px}.stator-emblem{width:60px;height:80px}.brand .brand-name{font-size:25px}}
+@media(max-width:540px){.site-nav{min-height:98px}.stator-emblem{width:55px;height:73px}.brand{gap:10px}.brand .brand-name{font-size:23px}}

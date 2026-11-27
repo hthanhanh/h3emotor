@@ -17,3 +17,8 @@ These are concept illustrations. The curves in the materials image are schematic
 - `hero-motor-cutout.png`: background removed from the existing `hero-aircraft-motor.png` with the built-in image editor; motor and aircraft retained for compositing over the shared site background.
 
 The visible concept-label sentences were removed from homepage captions at the site owner's request. The images remain illustrative assets.
+
+
+## Portrait stator emblem (27 November 2026)
+
+`h3e-stator-emblem.webp` uses the portrait H3E copper stator emblem generated from the user-provided badge and approved by the user. Its polished copper windings, brushed-steel core, navy backing and fine metallic edge are preserved. Transparent outside the badge. Paired with a readable HTML wordmark in all seven page headers and footers.
