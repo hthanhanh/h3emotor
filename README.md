@@ -34,3 +34,7 @@ Edit a file in GitHub and commit the change to `main`; GitHub Pages republishes 
 The content retains clearly marked review notes from the supplied draft. Add your portrait and CV, verify your current affiliation and role dates, and replace publication/contact/profile-link placeholders with verified details. The illustration is a conceptual motif, not a specific research model.
 
 No build step, paid theme, external font service, or third-party tracking is required.
+
+## Technology-led redesign
+
+The homepage presents three pillars: Advanced Electrical Machines, Advanced Winding Technology, and Advanced Materials & Additive Manufacturing. Shared typography and navigation are defined in `design.css`; the mobile menu is in `navigation.js`. Image provenance is recorded in `ASSET_SOURCES.md`. The homepage keeps the existing blue-charcoal background under a dark grid and uses the original conceptual motor motif.
