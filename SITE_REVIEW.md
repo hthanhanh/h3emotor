@@ -64,3 +64,10 @@
 - All seven HTML pages passed nesting, unique heading/ID, image alt and local-link/fragment checks.
 - All publication topic filters were exercised in the browser and restored to the 26-record list.
 - Desktop requested headings were measured as single lines without overflow.
+
+## Homepage project and capability detail
+
+- Expanded each homepage pillar with three concise project/capability summaries based on the supplied CV and existing research content.
+- Machine projects now distinguish the 1 MW five-stage Halbach aircraft machine, 200 kW high-speed micro-turbine generators and 150 kW IPMSM traction design. The axial-PM project is correctly identified as 10 kW.
+- Added separate hairpin/continuous hairpin, Litz wire and edgewise coil summaries. Added magnetic characterisation, manufacturing effects and additive-manufacturing research direction summaries.
+- Preserved the shared background, approved logo, supplied illustrations and existing full-width pillar headings. Homepage-only styles are in `home.css`; other pages retain their current layout.
