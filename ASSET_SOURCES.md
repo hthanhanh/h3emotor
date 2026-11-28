@@ -32,3 +32,10 @@ The visible concept-label sentences were removed from homepage captions at the s
 ## Aircraft and EV homepage image (27 November 2026)
 
 `hero-aircraft-ev-motor.webp` edits the existing transparent motor illustration with the built-in image-generation tool at the user's request: a larger aircraft at upper left and an electric passenger car of similar visual prominence at lower left. Blue ribbons link the application vignettes to the motor. Transparent outside the illustrated elements. The image is illustrative.
+
+
+## Horizontal logo and November 2026 site review
+
+`h3e-horizontal-logo.webp` uses the latest user-approved horizontal copper-hairpin badge, with upright H3E/MOTOR lettering, navy nameplate and cyan divider. Used in header and footer without a separate footer wordmark. The supplied background is retained with a 32% dark overlay for text contrast.
+
+Selected publication metadata was checked against IEEE Xplore, the University of Nottingham research repository, National Cheng Kung University and Elsevier records. Profile URLs and identifiers were supplied directly by the user.
