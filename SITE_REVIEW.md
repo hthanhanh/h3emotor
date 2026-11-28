@@ -71,3 +71,7 @@
 - Machine projects now distinguish the 1 MW five-stage Halbach aircraft machine, 200 kW high-speed micro-turbine generators and 150 kW IPMSM traction design. The axial-PM project is correctly identified as 10 kW.
 - Added separate hairpin/continuous hairpin, Litz wire and edgewise coil summaries. Added magnetic characterisation, manufacturing effects and additive-manufacturing research direction summaries.
 - Preserved the shared background, approved logo, supplied illustrations and existing full-width pillar headings. Homepage-only styles are in `home.css`; other pages retain their current layout.
+
+## Research imagery — 28 November 2026
+
+Four AI-generated concept illustrations replace the displayed EV topology, EV component, aircraft machine and continuous hairpin images. New compositions match the supplied blue/copper/steel reference. Captions identify their illustrative geometry and link to unchanged source diagrams/photos, preserving EV publication attribution. The measured B–H graph remains unchanged. Research text, publications and other pages are unchanged.
