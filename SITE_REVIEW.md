@@ -42,3 +42,25 @@
 - All seven pages passed local asset/fragment checks, unique IDs, one H1 and image alternative text checks.
 - Browser review: 1363 px desktop, 390 px phone and 320 px narrow phone; 105 px desktop header; desktop footer on one row.
 - These checks cover the shared text palette and layouts; they are not a full accessibility certification.
+
+## Shared background and CV/publication expansion
+
+- All pages and sections use the same supplied blue-and-charcoal background. Opaque reading panels and alternating section fills are removed. A uniform 36% dark overlay supports text contrast; the sticky header uses the same aligned image.
+- Enlarged the homepage headline and promoted requested headings to full-width, single-line titles on desktop. Long titles wrap on smaller viewports. Paragraphs and list copy are justified and use the available content width.
+- Reviewed the supplied 2026 CV and updated academic roles, industrial experience, education, teaching, supervision, service and the university contact email. Private telephone and referee details and the original CV file are not published.
+- Expanded Research to eight themes including EV drives and drive cycles, rotor/magnet architectures, aircraft/UAV propulsion, windings, materials, AI-informed design, generators and precision motion. Related publications are linked from each theme.
+- Expanded Publications to 26 selected records with topic filters and explicit accepted qualifications where applicable.
+- Added unchanged EV motor cross-sections and prototype figures from Huynh and Hsieh (2018), with source and CC BY 4.0 attribution.
+
+## Validation of the shared-background revision
+
+- body: conservative minimum 5.50:1 over the shared background.
+- labels: conservative minimum 5.23:1 over the shared background.
+- navigation: conservative minimum 5.08:1 over the shared background.
+- accent: conservative minimum 4.85:1 over the shared background.
+- content links: conservative minimum 5.19:1 over the shared background.
+- hover text: conservative minimum 6.70:1 over the shared background.
+- focus ring: conservative minimum 5.93:1 over the shared background.
+- All seven HTML pages passed nesting, unique heading/ID, image alt and local-link/fragment checks.
+- All publication topic filters were exercised in the browser and restored to the 26-record list.
+- Desktop requested headings were measured as single lines without overflow.

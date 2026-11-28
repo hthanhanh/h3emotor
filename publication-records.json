@@ -1,0 +1,380 @@
+[
+  {
+    "id": "hybrid-magnets",
+    "year": 2026,
+    "title": "Reduced-Rare-Earth Hybrid-Magnet Flux-Intensifying Spoke-Type IPM Motor with an Asymmetric Magnet Arrangement for Enhanced Reluctance Torque",
+    "authors": "M.-H. Le Duong, P.-W. Huang, A. T. Huynh, V.-T. Nguyen, T.-L. Le and M.-F. Hsieh",
+    "venue": "IEEE Transactions on Magnetics",
+    "tags": [
+      "ev"
+    ],
+    "doi": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=odhcabkAAAAJ&sortby=pubdate&citation_for_view=odhcabkAAAAJ:BqipwSGYUEgC",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "operating-regions",
+    "year": 2026,
+    "title": "Operating-Region Analysis of Flux Intensification and Variable Leakage Flux in Spoke-Type IPM Motors for Wide-Speed Traction Drives",
+    "authors": "M.-H. Le Duong, A. T. Huynh and M.-F. Hsieh",
+    "venue": "IEEE Transactions on Industry Applications",
+    "tags": [
+      "ev"
+    ],
+    "doi": "10.1109/TIA.2026.3741823",
+    "url": "",
+    "status": "Early access",
+    "kind": "journal"
+  },
+  {
+    "id": "steel-review",
+    "year": 2026,
+    "title": "A Comprehensive Review of Electrical Steel Cutting Techniques for Electric Machine Cores: Insights from PMa-SynRel Motor Case Studies",
+    "authors": "A. T. Huynh, R. Ramanathan, M. Ilkhani, G. Vakil, C. Gerada, N. Sundaram, D. Chantzis and R. Koch",
+    "venue": "Results in Engineering, vol. 32, article 112686",
+    "tags": [
+      "materials",
+      "ev"
+    ],
+    "doi": "10.1016/j.rineng.2026.112686",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "flux-barriers",
+    "year": 2026,
+    "title": "Analysis of Flux Barrier Effects on Magnetic Flux Distribution and Torque Characteristics in Spoke-Type Interior Permanent Magnet Synchronous Motors",
+    "authors": "A. T. Huynh, V.-V. Do, M.-H. D. Le and M.-F. Hsieh",
+    "venue": "HUIT Journal of Science, vol. 26, no. 2E, pp. 213–223",
+    "tags": [
+      "ev"
+    ],
+    "doi": "10.62985/j.huit_ojs.vol26.no2E.394",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "hybrid-stepper",
+    "year": 2026,
+    "title": "Electromagnetic Design of Hybrid Stepper Motors Accounting for Magnetic Saturation Toward Servo-Level Torque Density",
+    "authors": "M.-F. Hsieh, A. T. Huynh, M.-H. D. Le and Y.-X. Lee",
+    "venue": "IEEE Transactions on Magnetics",
+    "tags": [
+      "motion"
+    ],
+    "doi": "10.1109/TMAG.2026.3695656",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "uav-six-phase",
+    "year": 2026,
+    "title": "Design and Optimization of a High-Power-Density Six-Phase PMSM for UAV Propulsion Considering Inverter-Induced Harmonic Effects",
+    "authors": "M.-F. Hsieh, A. T. Huynh, P.-Y. Li, M.-H. D. Le and P.-W. Huang",
+    "venue": "IEEE Transactions on Magnetics",
+    "tags": [
+      "aircraft",
+      "ai"
+    ],
+    "doi": "10.1109/TMAG.2026.3690525",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "winding-comparison",
+    "year": 2025,
+    "title": "Optimization and Comparison of 1 MW-Class PM Motors for Aircraft Propulsion Using Litz Wire and Hairpin Windings",
+    "authors": "A. T. Huynh, H. Huang, J. Jiang, T. Zou, D. Gerada, T. Yang and C. Gerada",
+    "venue": "IEEE Transactions on Magnetics, vol. 61, no. 9, article 8202805",
+    "tags": [
+      "aircraft",
+      "windings"
+    ],
+    "doi": "10.1109/TMAG.2025.3547237",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "hairpin-review",
+    "year": 2025,
+    "title": "Continuous Hairpin Winding Technology for Electric Machines Enabling Net Zero Transportation: A Comprehensive Review",
+    "authors": "H. Huang et al.",
+    "venue": "IEEE Open Journal of Vehicular Technology, vol. 6, pp. 1481–1500",
+    "tags": [
+      "windings",
+      "ev",
+      "aircraft"
+    ],
+    "doi": "10.1109/OJVT.2025.3575187",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "asymmetric-rotor",
+    "year": 2024,
+    "title": "Design Optimization of Spoke-type Flux-intensifying PM Motor with Asymmetric Rotor Configuration for Improved Performance",
+    "authors": "M.-F. Hsieh, A. T. Huynh, V.-V. Do, D. Gerada and C. Gerada",
+    "venue": "IEEE Transactions on Magnetics, vol. 60, no. 9",
+    "tags": [
+      "ev"
+    ],
+    "doi": "10.1109/TMAG.2024.3428416",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "ml-design",
+    "year": 2023,
+    "title": "Development of Machine Learning-based Design Platform for Permanent Magnet Synchronous Motor Toward Simulation Free",
+    "authors": "M.-F. Hsieh, L.-H. Lin, A. T. Huynh and D. Dorrell",
+    "venue": "IEEE Transactions on Magnetics, vol. 59, no. 11",
+    "tags": [
+      "ai"
+    ],
+    "doi": "10.1109/TMAG.2023.3309151",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "fi-ipm",
+    "year": 2023,
+    "title": "Influence of Flux Barriers and Permanent Magnet Arrangements on Performance of High-Speed Flux-Intensifying IPM Motor",
+    "authors": "A. T. Huynh et al.",
+    "venue": "IEEE Transactions on Magnetics, vol. 59, no. 11",
+    "tags": [
+      "ev"
+    ],
+    "doi": "10.1109/TMAG.2023.3290538",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "ebike-efficiency",
+    "year": 2022,
+    "title": "Maximization of High-efficiency Operating Range of Spoke-type PM E-bike Motor by Optimization through New Motor Constant",
+    "authors": "A. T. Huynh, V.-H. Che and M.-F. Hsieh",
+    "venue": "IEEE Transactions on Industry Applications",
+    "tags": [
+      "ev"
+    ],
+    "doi": "10.1109/TIA.2022.3205571",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "dual-motor-traction",
+    "year": 2022,
+    "title": "Analysis and Comparison of Operational Characteristics of EV Traction Units Combining Two Different Motors",
+    "authors": "A. T. Huynh, P.-H. Chen and M.-F. Hsieh",
+    "venue": "IEEE Transactions on Vehicular Technology, vol. 71, no. 6",
+    "tags": [
+      "ev"
+    ],
+    "doi": "10.1109/TVT.2022.3179868",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "traction-cooling",
+    "year": 2021,
+    "title": "Improvement of Traction Motor Performance for Electric Vehicles Using Conductors with Insulation of High Thermal Conductivity Considering Cooling Methods",
+    "authors": "A. T. Huynh and M.-F. Hsieh",
+    "venue": "IEEE Transactions on Magnetics, vol. 57, no. 2",
+    "tags": [
+      "ev",
+      "windings"
+    ],
+    "doi": "10.1109/TMAG.2020.3021127",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "demagnetisation",
+    "year": 2019,
+    "title": "Irreversible Demagnetization Analysis for Multilayer Magnets of Permanent Magnet-Assisted Synchronous Reluctance Machines Considering Current Phase Angle",
+    "authors": "A. T. Huynh and M.-F. Hsieh",
+    "venue": "IEEE Transactions on Magnetics, vol. 55, no. 7",
+    "tags": [
+      "ev"
+    ],
+    "doi": "10.1109/TMAG.2019.2911867",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "ev-driving-cycles",
+    "year": 2018,
+    "title": "Performance Analysis of Permanent Magnet Motors for Electric Vehicles (EV) Traction Considering Driving Cycles",
+    "authors": "T. A. Huynh and M.-F. Hsieh",
+    "venue": "Energies, vol. 11, no. 6, article 1385",
+    "tags": [
+      "ev"
+    ],
+    "doi": "10.3390/en11061385",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "thin-steel",
+    "year": 2017,
+    "title": "Performance Evaluation of Interior Permanent Magnet Motors Using Thin Electrical Steels",
+    "authors": "A. T. Huynh and M.-F. Hsieh",
+    "venue": "IEEJ Journal of Industry Applications, vol. 6, no. 6, pp. 422–428",
+    "tags": [
+      "ev",
+      "materials"
+    ],
+    "doi": "10.1541/ieejia.6.422",
+    "url": "",
+    "status": "",
+    "kind": "journal"
+  },
+  {
+    "id": "stacking-review",
+    "year": 2026,
+    "title": "A Review of the Impact of Electrical-Steel Lamination Stacking and Joining Methods on High-Performance Traction Motors",
+    "authors": "A. T. Huynh et al.",
+    "venue": "IEEE Access",
+    "tags": [
+      "materials",
+      "ev"
+    ],
+    "doi": "",
+    "url": "https://scholar.google.com/citations?user=odhcabkAAAAJ&hl=en",
+    "status": "Accepted",
+    "kind": "accepted"
+  },
+  {
+    "id": "chw-comparison",
+    "year": 2026,
+    "title": "Comparison of Two Continuous Hairpin Winding Configurations in a Power-Dense Multiphase MW-Class Aircraft Propulsion Motor",
+    "authors": "A. T. Huynh et al.",
+    "venue": "International Conference on Electrical Machines (ICEM)",
+    "tags": [
+      "aircraft",
+      "windings"
+    ],
+    "doi": "",
+    "url": "https://scholar.google.com/citations?user=odhcabkAAAAJ&hl=en",
+    "status": "Accepted",
+    "kind": "conference"
+  },
+  {
+    "id": "slot-surrogate",
+    "year": 2026,
+    "title": "Physics-Informed Surrogate-Based Local Sensitivity Analysis of Stator Slot Geometry in Hairpin Winding IPMSMs with Limited Data",
+    "authors": "A. T. Huynh, T.-P. Nguyen and V. K. Huynh",
+    "venue": "International Conference on Electrical Machines (ICEM), pp. 1–8",
+    "tags": [
+      "ev",
+      "windings",
+      "ai"
+    ],
+    "doi": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=odhcabkAAAAJ&sortby=pubdate&citation_for_view=odhcabkAAAAJ:NMxIlDl6LWMC",
+    "status": "",
+    "kind": "conference"
+  },
+  {
+    "id": "ring-bh",
+    "year": 2026,
+    "title": "Closed-Loop Dynamic BH Curve and Iron-Loss Modeling of Manufacturing-Induced Degradation in Electrical Steels Using Ring Specimens for Traction Motor Applications",
+    "authors": "A. T. Huynh et al.",
+    "venue": "IEEE International Magnetic Conference (INTERMAG), pp. 1–5",
+    "tags": [
+      "materials",
+      "ev"
+    ],
+    "doi": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=odhcabkAAAAJ&sortby=pubdate&citation_for_view=odhcabkAAAAJ:YFjsv_pBGBYC",
+    "status": "",
+    "kind": "conference"
+  },
+  {
+    "id": "asymmetric-demag",
+    "year": 2025,
+    "title": "Impact of Asymmetric PM Configurations on Demagnetization and Performance of IPMSMs for Electric Vehicle Applications",
+    "authors": "M.-N. K. Bao et al.",
+    "venue": "International Conference on Electrical Machines and Systems (ICEMS)",
+    "tags": [
+      "ev"
+    ],
+    "doi": "10.23919/ICEMS66262.2025.11317071",
+    "url": "",
+    "status": "",
+    "kind": "conference"
+  },
+  {
+    "id": "hairpin-thermal",
+    "year": 2025,
+    "title": "Losses and Thermal Behavior of Multi-phase MW-Class PM Machines Employing Different Hairpin Winding Configurations",
+    "authors": "A. T. Huynh, H. Huang, S. La Rocca, F. Zhang, Z. Xu, T. Zou, C. Gerada and D. Gerada",
+    "venue": "IEEE Industry Applications Society Annual Meeting (IAS), pp. 1–7",
+    "tags": [
+      "aircraft",
+      "windings"
+    ],
+    "doi": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=odhcabkAAAAJ&sortby=pubdate&citation_for_view=odhcabkAAAAJ:j3f4tGmQtD8C",
+    "status": "",
+    "kind": "conference"
+  },
+  {
+    "id": "fi-vlf",
+    "year": 2025,
+    "title": "Effects of Flux Intensifying and Variable Leakage Flux on Spoke-Type IPM Motor Performance and Demagnetization",
+    "authors": "M.-H. D. Le, A. T. Huynh and M.-F. Hsieh",
+    "venue": "IEEE Industry Applications Society Annual Meeting (IAS)",
+    "tags": [
+      "ev"
+    ],
+    "doi": "10.1109/IAS62731.2025.11061611",
+    "url": "",
+    "status": "",
+    "kind": "conference"
+  },
+  {
+    "id": "multiphase-design",
+    "year": 2024,
+    "title": "Design of a 1MW-Class Permanent Magnet Machine Featuring Multiphase Hairpin Windings for Electric Aircraft Propulsion",
+    "authors": "A. T. Huynh et al.",
+    "venue": "IEEE Vehicle Power and Propulsion Conference (VPPC)",
+    "tags": [
+      "aircraft",
+      "windings"
+    ],
+    "doi": "10.1109/VPPC63154.2024.10755419",
+    "url": "",
+    "status": "",
+    "kind": "conference"
+  },
+  {
+    "id": "high-speed-generator",
+    "year": 2019,
+    "title": "Analysis of Magnet Configuration on Electromagnetic Performance of High-Speed Generators Using Post-assembly Magnetization",
+    "authors": "A. T. Huynh and M.-F. Hsieh",
+    "venue": "IEEE International Future Energy Electronics Conference (IFEEC)",
+    "tags": [
+      "motion"
+    ],
+    "doi": "10.1109/IFEEC47410.2019.9014664",
+    "url": "",
+    "status": "",
+    "kind": "conference"
+  }
+]

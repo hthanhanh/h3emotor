@@ -45,3 +45,10 @@ Selected publication metadata was checked against IEEE Xplore, the University of
 The existing `research-machine.jpg`, `research-winding.jpg` and `research-materials.png` are displayed unchanged on the Research page. They show the machine cross-section, continuous hairpin manufacturing sequence and measured 50 Hz magnetic loops respectively. Full-resolution originals remain directly available through figure links. No new measurements, numerical results or image content were created for this revision.
 
 The approved horizontal badge remains the header/footer identity. The original site background is retained with stronger darkening outside the homepage hero; reading surfaces are solid navy to keep text contrast independent of image placement.
+
+## EV traction research figures
+
+- `ev-traction-topologies.png`: unchanged Fig. 1 from T. A. Huynh and M.-F. Hsieh, “Performance Analysis of Permanent Magnet Motors for Electric Vehicles (EV) Traction Considering Driving Cycles,” Energies 11(6), 1385, 2018. DOI: https://doi.org/10.3390/en11061385. Downloaded from https://mdpi-res.com/energies/energies-11-01385/article_deploy/html/images/energies-11-01385-g001.png.
+- `ev-traction-prototypes.png`: unchanged Fig. 21 from the same article. Downloaded from https://mdpi-res.com/energies/energies-11-01385/article_deploy/html/images/energies-11-01385-g021.png.
+- © 2018 the authors. Both figures are reused under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), with visible source/author/license captions.
+- The newly supplied background picture is pixel-identical to the existing `site-background.png`; it is now the sole page background throughout the site.

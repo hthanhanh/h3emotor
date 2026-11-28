@@ -22,10 +22,14 @@ Commit changes to `main`; GitHub Pages republishes automatically. All internal l
 
 ## Design
 
-The approved copper-and-steel badge appears in the header and footer. The supplied blue-and-charcoal background is most visible in the homepage hero, with quieter backgrounds and opaque navy reading surfaces elsewhere. The two-line homepage headline and three research pillars are retained. Research figures link to their unchanged full-resolution files.
+The approved copper-and-steel badge appears in the header and footer. The supplied blue-and-charcoal background is most visible in the homepage hero, with the same aligned image across every page and transparent content sections. The two-line homepage headline and three research pillars are retained. Research figures link to their unchanged full-resolution files.
 
 Only `refined.css` is loaded by the seven pages. Earlier `style.css` and `design.css` remain as historical source assets.
 
+## Publication records
+
+`publication-records.json` records selected citation metadata and topic tags. `publications.js` filters the pre-rendered HTML records without hiding content from visitors who disable JavaScript. `PUBLICATION_SOURCES.md` records the CV and primary sources used in the update.
+
 ## Content to complete when available
 
-A professional portrait, CV, preferred email address and confirmed appointment end dates can be added later. The website currently uses a monogram and the owner-provided professional profile links. Publications are a selected list, with Google Scholar linked for the wider record.
+A professional portrait and a public-facing downloadable CV can be added later. The supplied CV has informed the website text, career dates and university email; the original file and private contact details are not hosted. The website currently uses a monogram and the owner-provided professional profile links. Publications are a selected list, with Google Scholar linked for the wider record.
