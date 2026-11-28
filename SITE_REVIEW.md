@@ -22,3 +22,23 @@
 - https://ieeexplore.ieee.org/abstract/document/10908992/
 - https://nottingham-repository.worktribe.com/person/24390877/anh-huynh/outputs
 - https://researchoutput.ncku.edu.tw/en/publications/design-of-a-1mw-class-permanent-magnet-machine-featuring-multipha/
+
+## Visual hierarchy refinement — 28 November 2026
+
+- Consolidated the shared stylesheet, with relative type sizes and a defined hierarchy: 64–72 px desktop hero; 48–56 px page titles; 36–44 px section titles; 22–26 px subheadings; 18 px body text.
+- Reduced the desktop sticky header from 133 px to 105 px; kept the approved copper-and-steel badge and centred navigation.
+- Shortened the three homepage pillars and moved supporting technical detail to Research. Preserved all three pillars, the two-line hero headline, supplied illustrations and aircraft/EV hero artwork.
+- Retained the supplied background, strongest at the homepage hero and subdued elsewhere. Long-form content uses a slightly brighter, opaque navy surface and a 72-character reading measure.
+- Reintroduced the existing research model, winding manufacturing photographs and measured B–H plot on Research, each linking to its unchanged full-resolution source.
+- Removed repeated Publications and About labels; compacted citation metadata and achievement layouts.
+- Portrait, CV, email and appointment end-date information remain outstanding; no new personal information was inferred.
+
+## Validation of refined layout
+
+- Hero body: conservative minimum 5.30:1 across all background pixels.
+- Hero heading: conservative minimum 5.79:1 across all background pixels.
+- Hero accent link: conservative minimum 4.69:1 across all background pixels.
+- Solid content body: 10.81:1. Card hover body: 6.67:1. Primary button: 12.20:1. Focus indicator against card hover: 8.74:1.
+- All seven pages passed local asset/fragment checks, unique IDs, one H1 and image alternative text checks.
+- Browser review: 1363 px desktop, 390 px phone and 320 px narrow phone; 105 px desktop header; desktop footer on one row.
+- These checks cover the shared text palette and layouts; they are not a full accessibility certification.

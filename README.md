@@ -1,40 +1,31 @@
 # H3E Motor — academic website
 
-Academic website for Dr Anh Thanh Huynh, built as seven static HTML pages for GitHub Pages.
+Seven static pages for Dr Anh Thanh Huynh, hosted on GitHub Pages.
 
-## Publish
-
-1. Create a public repository named `h3emotor` under your GitHub account.
-2. Upload all files in this folder to the repository root.
-3. Open Settings → Pages and select **Deploy from a branch**.
-4. Choose **main** and **/ (root)**, then save.
-5. Use the live URL shown when the deployment succeeds.
-
-The repository name can also be changed without changing the relative page links.
-
-## Edit the website
+## Update the site
 
 | Content | File |
 | --- | --- |
-| Homepage headline and introduction | `index.html` |
-| Profile, experience and education | `about.html` |
-| Research introduction, tools, highlights and interests | `research.html` |
-| Publication list | `publications.html` |
+| Homepage introduction and three pillars | `index.html` |
+| Profile, biography, experience and education | `about.html` |
+| Research themes, technical detail and supporting figures | `research.html` |
+| Selected publications and DOI links | `publications.html` |
 | Recognition and academic service | `achievements.html` |
-| Research news | `news.html` |
-| Contact and collaboration details | `contact.html` |
-| Colours, typography and responsive layout | `style.css` |
-| Blue-and-charcoal background | `blue-charcoal-background.jpg` |
-| Conceptual machine illustration | `electrical-machine.svg` |
+| Publication and research highlights | `news.html` |
+| Professional profiles and collaboration | `contact.html` |
+| Shared visual system and responsive layouts | `refined.css` |
+| Mobile menu | `navigation.js` |
+| Image provenance | `ASSET_SOURCES.md` |
+| Revision notes and outstanding personal details | `SITE_REVIEW.md` |
 
-Edit a file in GitHub and commit the change to `main`; GitHub Pages republishes the site automatically. News is edited in `news.html` and is not a separate blog service.
+Commit changes to `main`; GitHub Pages republishes automatically. All internal links use relative paths. No build command, paid theme or external font service is required.
 
-## Before sharing widely
+## Design
 
-The content retains clearly marked review notes from the supplied draft. Add your portrait and CV, verify your current affiliation and role dates, and replace publication/contact/profile-link placeholders with verified details. The illustration is a conceptual motif, not a specific research model.
+The approved copper-and-steel badge appears in the header and footer. The supplied blue-and-charcoal background is most visible in the homepage hero, with quieter backgrounds and opaque navy reading surfaces elsewhere. The two-line homepage headline and three research pillars are retained. Research figures link to their unchanged full-resolution files.
 
-No build step, paid theme, external font service, or third-party tracking is required.
+Only `refined.css` is loaded by the seven pages. Earlier `style.css` and `design.css` remain as historical source assets.
 
-## Technology-led redesign
+## Content to complete when available
 
-The homepage presents three pillars: Advanced Electrical Machines, Advanced Winding Technology, and Advanced Materials & Additive Manufacturing. Shared typography and navigation are defined in `design.css`; the mobile menu is in `navigation.js`. Image provenance is recorded in `ASSET_SOURCES.md`. The homepage keeps the existing blue-charcoal background under a dark grid and uses the original conceptual motor motif.
+A professional portrait, CV, preferred email address and confirmed appointment end dates can be added later. The website currently uses a monogram and the owner-provided professional profile links. Publications are a selected list, with Google Scholar linked for the wider record.

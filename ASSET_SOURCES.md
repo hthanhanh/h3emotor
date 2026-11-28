@@ -39,3 +39,9 @@ The visible concept-label sentences were removed from homepage captions at the s
 `h3e-horizontal-logo.webp` uses the latest user-approved horizontal copper-hairpin badge, with upright H3E/MOTOR lettering, navy nameplate and cyan divider. Used in header and footer without a separate footer wordmark. The supplied background is retained with a 32% dark overlay for text contrast.
 
 Selected publication metadata was checked against IEEE Xplore, the University of Nottingham research repository, National Cheng Kung University and Elsevier records. Profile URLs and identifiers were supplied directly by the user.
+
+## Research evidence and calmer visual treatment
+
+The existing `research-machine.jpg`, `research-winding.jpg` and `research-materials.png` are displayed unchanged on the Research page. They show the machine cross-section, continuous hairpin manufacturing sequence and measured 50 Hz magnetic loops respectively. Full-resolution originals remain directly available through figure links. No new measurements, numerical results or image content were created for this revision.
+
+The approved horizontal badge remains the header/footer identity. The original site background is retained with stronger darkening outside the homepage hero; reading surfaces are solid navy to keep text contrast independent of image placement.
